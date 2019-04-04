@@ -1,2 +1,1 @@
-# Work-Samples
-This is a repository of my work samples which I would like to present when I apply for a job. 
+This is a respository of work samples which I have created to showcase my writing skills. I have over 12 years of experience as a Technical Writer and Program Manager and have worked for Fortune 100 companies. Have an incresent urge to learn new technologies and keep working on my skillsets. Please review my docs and provide your feedback. Thank you.
