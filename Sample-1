@@ -1,0 +1,14 @@
+Dataset Description
+The SubscriptionProfile.ss stream provides a current snapshot of every consumer Seattle-C subscription that has existed in Seattle-C products.
+The key areas that this data covers are:
+• Subscription Lifecycle data, such as start/end date values and statuses such as active or cancelled
+• Payment information such as, where the subscription was purchased, when billing began, and which company sold the subscription
+• Seattle-C Partner information such as, which Partner was involved with the sale to the end customer and how they are identified in various systems
+Used to:
+• Identify/analyze customers and their specific profiles as subscribers based on a variety of subscription attributes
+• Target campaigns at customers based on a variety of their subscription attributes from a profile standpoint.
+
+Access information Data Location: https://Seattle-C.osdinfra.net/Datasets/Seattle-C/SubscriptionProfile.ss?property=info
+Submit a Zendesk ticket at www.SupportSeattle-C.Zendesk.com to request for dataset access along with a business justification.
+Data availability All subscriptions data till date. Data source and latency
+The data in this Data sets is sourced from upstream system – C Platform. The Subscription Profile stream has a latency of N+3 days. Data will be refreshed in Datasets every day by 7PM UTC. Data definition
